@@ -1,0 +1,14 @@
+H:\CODING\mocha\c#\provodnik\provodnik\bin\Debug\net6.0\provodnik.exe
+H:\CODING\mocha\c#\provodnik\provodnik\bin\Debug\net6.0\provodnik.deps.json
+H:\CODING\mocha\c#\provodnik\provodnik\bin\Debug\net6.0\provodnik.runtimeconfig.json
+H:\CODING\mocha\c#\provodnik\provodnik\bin\Debug\net6.0\provodnik.dll
+H:\CODING\mocha\c#\provodnik\provodnik\bin\Debug\net6.0\provodnik.pdb
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.GeneratedMSBuildEditorConfig.editorconfig
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.AssemblyInfoInputs.cache
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.AssemblyInfo.cs
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.csproj.CoreCompileInputs.cache
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.dll
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\refint\provodnik.dll
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.pdb
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\provodnik.genruntimeconfig.cache
+H:\CODING\mocha\c#\provodnik\provodnik\obj\Debug\net6.0\ref\provodnik.dll

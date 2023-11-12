@@ -29,8 +29,6 @@
                     {
                         ProvodnikWork.ShowDirectoryInfo(info[pos - 1].RootDirectory.FullName);
                     }
-
-
             }
         }
     }

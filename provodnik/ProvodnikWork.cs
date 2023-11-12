@@ -32,16 +32,12 @@ namespace provodnik
                     foreach (string folder in folders)
                     {
                         var createDate              = Directory.GetCreationTime(folder);
-                        var extension               = Path.GetExtension(folder);
 
 
                         Console.Write               ("  папка: " + folder);
 
                         Console.SetCursorPosition   (40, Console.CursorTop);
-                        Console.Write               (createDate);
-
-                        Console.SetCursorPosition   (70, Console.CursorTop);
-                        Console.WriteLine           (extension);
+                        Console.WriteLine           (createDate);
                     }
                     foreach (string file in files)
                     {
@@ -75,8 +71,6 @@ namespace provodnik
                             Process.Start(new ProcessStartInfo { FileName = allFiles[pos], UseShellExecute = true });
                         }
                     }
-
-
             }
         }
     }
